@@ -9,7 +9,6 @@ This project aims to develop an advanced monitoring system for TeleICU patients 
 - **Real-time Video Processing**: Continuous monitoring of ICU patients through video feeds.
 - **Motion Detection**: Identifies significant patient movements or changes in posture.
 - **Deep Learning Models**: Utilizes state-of-the-art deep learning algorithms to analyze video data.
-- **Scalable and Efficient**: Designed to handle multiple video feeds simultaneously with high accuracy.
 
 ## <span style="font-size:1.5em;">Table of Contents</span>
 
@@ -68,7 +67,7 @@ You can configure various parameters such as video source, alert thresholds, and
 
 ### <span style="font-size:1.2em;">Clone the Repository</span>
 ```bash
-git clone https://github.com/yourusername/teleicu-monitoring-system.git
+git clone https://github.com/AleetaT/teleicu-monitoring-system.git
 cd teleicu-monitoring-system
 ```
 
