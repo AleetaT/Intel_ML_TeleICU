@@ -70,5 +70,6 @@ You can configure various parameters such as video source, alert thresholds, and
 git clone https://github.com/AleetaT/teleicu-monitoring-system.git
 cd teleicu-monitoring-system
 ```
-
+Link to the models
+https://drive.google.com/drive/folders/1jDoQay2stf8z8tqW4VnM6FWYUaXdr1EF?usp=sharing
 
