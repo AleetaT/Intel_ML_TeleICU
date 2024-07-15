@@ -58,7 +58,7 @@ pip install -r requirements.txt
 <span style="font-size:1.2em;">Running the System</span>
 To start the monitoring system, run the following command:
 ```
-python main.py
+python RealTimeMonitoring.py
 ```
 <span style="font-size:1.2em;">Configuration</span>
 You can configure various parameters such as video source, alert thresholds, and model settings in the config.json file.
